@@ -39,7 +39,6 @@ Now issue the same request as before:
 
 In this case, Bean Validation is correctly called and the result is a 400:
 
-    curl -iX POST localhost:8080 -d email=myinvalidemail
     HTTP/1.1 400 Bad Request
     Date: Sat, 9 May 2020 15:19:53 GMT
     content-type: application/json
