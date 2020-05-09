@@ -1,0 +1,17 @@
+# Hidden files
+.*
+!.gitignore
+
+# Package files
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+
+# Project files
+build
+bin
+out

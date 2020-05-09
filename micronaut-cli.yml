@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.missing.validation.dependency.bug
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
