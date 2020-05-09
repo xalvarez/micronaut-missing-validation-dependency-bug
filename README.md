@@ -1,0 +1,1 @@
+# micronaut-missing-validation-dependency-bug
