@@ -1,6 +1,7 @@
 # Micronaut missing validation dependency bug
 
-This sample project reproduces the bug described here: (TODO)[TODO]
+This sample project reproduces the bug described here:
+[https://github.com/micronaut-projects/micronaut-core/issues/3201](https://github.com/micronaut-projects/micronaut-core/issues/3201)
 
 The project was initially created as follows using micronaut 1.3.5:
 
